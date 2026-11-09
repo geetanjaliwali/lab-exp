@@ -1,3 +1,4 @@
 a for apple
 b for banana
 from new-feature branch
+fixing bug in bug-fix branch
